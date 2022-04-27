@@ -7,7 +7,7 @@ import java.util.List;
 
 
 
-class archery_competition {
+class archery_competition  {
     
   
     static boolean[] visit;
