@@ -1,8 +1,6 @@
 import java.util.*;
 
-/**
- * test
- */
+
 class Node{
     int n;
     int distance = 0;
