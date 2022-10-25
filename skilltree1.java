@@ -5,7 +5,7 @@ import java.util.HashSet;
 /**
  * test1
  */
-public class test1 {
+public class skilltree1 {
 
     public static void main(String[] args) {
       System.out.println( solution("CBD",new String[] {"BACDE", "CBADF", "AECB", "BDA"}) ) ;
